@@ -230,6 +230,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="69" width="1920" height="968" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2628205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -256,7 +257,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.32959402" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32959402" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32959402" />
     </layout>
     <layout-to-restore>
